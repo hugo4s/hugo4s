@@ -25,11 +25,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 🌐 &nbsp; JavaScript | TypeScript | ECMAScript | NodeJS | ReactJS | ElectronJS | React NATIVE
-- 🌐 &nbsp; HTML | CSS  | Bootstrap | Php | Nest.JS
-- 🛢 &nbsp; MongoDB | MySQL | SQL Server
-- 🔧 &nbsp; Git | Github | Gitlab | Vscode | Linux
-- ⚡ &nbsp; RabbitMQ  | Mqtt | Kafka | ElasticSearch | Redis | Microservices
-- ⚡ &nbsp; Docker | Web Socket | Nginx | DevOps
+- 🌐 &nbsp; HTML | CSS 
+- 🛢 &nbsp; MySQL
+- 🔧 &nbsp; Git | Github | Linux
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 
@@ -73,9 +71,8 @@
 
 <p>
    <h3> 🤝🏻 Connect with me </h3>
-  <a href="mailto:hi@ferdiozer.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://instagram.com/ferdi.ozer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hugoleonor10@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/hugo-leonor-a60710249/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <br>
