@@ -1,157 +1,93 @@
+<h1 align="center">Hi 👋, I'm  Hugo!</h1>
+<br>
 
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+<p>
+   <a href="https://github.com/ferdiozer?tab=repositories">
+   <img src="https://github-readme-stats.vercel.app/api?username=ferdiozer&show_icons=true" width="400" height="120">
+   </a>
+    <a href="https://github.com/ferdiozer/hetzner-cloud-api-js">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferdiozer&repo=hetzner-cloud-api-js"  height="120">
+   </a>
+
+   <br>
 </p>
 
 
-<br>
+
+<div><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.npmjs.com/~ferdiozer"><svg viewBox="0 0 27.23 27.23"><rect fill="#333333" width="27.23" height="27.23" rx="2"></rect><polygon fill="#fff" points="5.8 21.75 13.66 21.75 13.67 9.98 17.59 9.98 17.58 21.76 21.51 21.76 21.52 6.06 5.82 6.04 5.8 21.75"></polygon></svg></a></div>
+
+<h3> 👨🏻‍💻 &nbsp;Me </h3>
+
+- 🎓 &nbsp; Graduated in Computer Engineering
+- :rocket: &nbsp; Learning; Deep Learning for NLP in Python
+- 💼 &nbsp; I live in Istanbul/TURKEY 
+
+<h3>🛠 Tech Stack</h3>
+
+- 🌐 &nbsp; JavaScript | TypeScript | ECMAScript | NodeJS | ReactJS | ElectronJS | React NATIVE
+- 🌐 &nbsp; HTML | CSS  | Bootstrap | Php | Nest.JS
+- 🛢 &nbsp; MongoDB | MySQL | SQL Server
+- 🔧 &nbsp; Git | Github | Gitlab | Vscode | Linux
+- ⚡ &nbsp; RabbitMQ  | Mqtt | Kafka | ElasticSearch | Redis | Microservices
+- ⚡ &nbsp; Docker | Web Socket | Nginx | DevOps
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![Eslint](https://img.shields.io/badge/-Eslint-000?&logo=Eslint)
+![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React native](https://img.shields.io/badge/-React%20native-000?&logo=React)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=Expo)
+![Gatsby](https://img.shields.io/badge/-Gatsby-000?&logo=Gatsby)
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
+![Electron](https://img.shields.io/badge/-Electron-000?&logo=Electron)
+![Socket.io](https://img.shields.io/badge/-Socket.io-000?&logo=Socket.io)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-000?&logo=styled-components)
+![Xcode](https://img.shields.io/badge/-Xcode-000?&logo=Xcode)
+![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
+![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=NGINX)
+![Let's Encrypt](https://img.shields.io/badge/-Let's%20Encrypt-000?&logo=lets-encrypt)
+![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-000?&logo=DigitalOcean)
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-000?&logo=amazon-aws)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=Netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=Heroku)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Directus](https://img.shields.io/badge/-Directus-000?&logo=Directus)
+![Jira](https://img.shields.io/badge/-Jira-000?&logo=jira-software)
+![Sentry](https://img.shields.io/badge/-Sentry-000?&logo=Sentry)
+![Plesk](https://img.shields.io/badge/-Plesk-000?&logo=Plesk)
+![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
+![Ant Design](https://img.shields.io/badge/-Ant%20Design-000?&logo=Ant-Design)
+![Material UI](https://img.shields.io/badge/-Material%20UI-000?&logo=Material-UI)
+<br />
+<br />
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
+<p>
+   <h3> 🤝🏻 Connect with me </h3>
+  <a href="mailto:hi@ferdiozer.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/ferdi.ozer"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ferdiozer"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <br>
-<br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
-
-</a>
-</div>
-
-<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
+   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+</p>
 <br>
 <br>
 
------
-
-<br>
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
-<br>
-<br>
-
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
