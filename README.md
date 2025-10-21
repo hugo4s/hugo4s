@@ -7,7 +7,7 @@
 ### About Me:
 - ⚙️ DevOps Engineer skilled in automation and cloud systems
 - 📚 Studying at 42 Porto, mastering C, C++, Git, Linux systems, Docker, and low-level debugging with GDB
-- 🛠️ Experienced with AWS, Terraform, Ansible, Docker and GitHub Actions
+- 🛠️ Experienced with AWS, Terraform, Docker and GitHub Actions
 - ♟️ Chess strategist, always planning three moves ahead  
 - 🛡️ Founder of the **Cybersecurity Club @ 42 Porto**  
 
